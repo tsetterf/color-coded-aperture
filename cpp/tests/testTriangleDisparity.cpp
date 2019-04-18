@@ -40,7 +40,7 @@ int main(int argc, char** argv)
   }
 
   std::string apertureName = argv[1], imageName = argv[2];
-  double  minDepth = atof(argv[3]), maxDepth = atof(argv[4]),
+  double  minDepth = std::max(0.5,atof(argv[3])), maxDepth = atof(argv[4]),
           tR, tG, tB, aBG, aBR, aRG, cBG, cBR, cRG, zDBG, zDBR, zDRG, 
           bBG, bBR, bRG, fEff, cGx, cGy, gEff, sPx;
   cv::Mat TCtoF;

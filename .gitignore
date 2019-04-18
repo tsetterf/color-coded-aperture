@@ -1,6 +1,9 @@
-# compiled code 
+# compiled and installed code 
 ###############
 build/
+bin/
+lib/
+include/
 
 # generated debug images
 ########################
