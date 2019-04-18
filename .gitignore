@@ -1,11 +1,11 @@
-# compiled and installed code 
-###############
+# Compiled and installed code 
+########################
 build/
 bin/
 lib/
 include/
 
-# generated debug images
+# Generated debug images
 ########################
 *-[B,G,R].png
 *-BrotBG.png
