@@ -1,0 +1,15 @@
+# compiled code 
+###############
+build/
+
+# generated debug images
+########################
+*-[B,G,R].png
+*-BrotBG.png
+*-BrotBR.png
+*-GrotBG.png
+*-GrotRG.png
+*-RrotBR.png
+*-RrotRG.png
+*-depthMap.csv
+*-depthMap.png
