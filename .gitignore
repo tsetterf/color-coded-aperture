@@ -1,9 +1,9 @@
 # Compiled and installed code 
 ########################
-build/
-bin/
-lib/
-include/
+cpp/build/
+cpp/bin/
+cpp/lib/
+cpp/include/
 
 # Generated debug images
 ########################
