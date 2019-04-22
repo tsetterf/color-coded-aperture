@@ -475,8 +475,7 @@ title('Depth vs Disparity'); xlabel('Depth [m]');
 ylabel('Disparity or Diameter [px]');
 legend('Meas Disparity BG','Meas Disparity BR','Meas Disparity RG', ...
     'Modeled Disparity BG','Modeled Disparity BR',                  ...
-    'Modeled Disparity RG','Pinhole Diameter R [px]',                ...
-    'Pinhole Diameter G [px]','Pinhole Diameter B [px]');
+    'Modeled Disparity RG');
 
 % Display total station points from the perspective of the camera
 figure(2); clf; ax = 0.25;
