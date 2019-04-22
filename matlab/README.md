@@ -10,6 +10,7 @@ If using this software in a publication, please cite this paper.
 The third party PROPER library is required to generate point spread functions
 (PSFs). The latest version can be found on the 
 [PROPER SourceForge page](https://sourceforge.net/projects/proper-library/files/).
+Be sure to download the MATLAB release, not the Python release.
 
 Download this library and extract the contents to `thirdparty/proper`.
 
