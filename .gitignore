@@ -5,6 +5,11 @@ cpp/bin/
 cpp/lib/
 cpp/include/
 
+# Third party code
+########################
+cpp/thirdparty
+matlab/thirdparty
+
 # Generated debug images
 ########################
 *-[B,G,R].png
